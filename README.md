@@ -32,7 +32,7 @@ How to Run the Project:
     3. Open MATLAB → Set Current Folder to the extracted folder
     4. Run the project by executing:
     ![image](https://github.com/user-attachments/assets/f61dd332-d798-4006-b760-d5ba7b2c2c13)
-           5. Upload EEG Data (.xls file) va the GUI interface
+                    5. Upload EEG Data (.xls file) va the GUI interface
     6. Start preprocessing and classification
 
 Requirements:
